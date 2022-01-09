@@ -1,4 +1,5 @@
-##Even or Odd Game
+##Even or Odd Game##
 
-- ###*Simple even and Odd game*
-- ###*Python Language*
+- Simple even and Odd game*
+- Python Language
+- Colorama
